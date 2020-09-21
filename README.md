@@ -1,4 +1,4 @@
-# Formulas
+# Frmlx
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://mashukealam.github.io)
 
@@ -6,9 +6,19 @@
 It has many physics/math formulas along with some pretty handy convertions to help with your project if it deals with game engines or any calculations.
 
   
-  - Built in 2 hr 😎
+  - Built in 2 hr 
 
-# ** Contacts
+# Installations
+```npm i frmlx```
+
+# Usage
+Use the formulas by passing variables:
+``` 
+import {massenergy} from frmlx
+const energy = massenergy(45);
+```
+
+# Contacts
 ** My Email: mjim181145@bscse.uiu.ac.bd
 ** My FB: Mash Jim
 ** My Dept. & Roll: CSE - 011-181-145
